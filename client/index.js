@@ -39,3 +39,9 @@ ReactDOM.render(
   <Root />,
   document.querySelector("#react-app")
 );
+
+
+// lesson recap
+// - ApolloClient is frontend-agnostic; it interact with API and stores data
+// - ApolloProvider works like Redux and handles interaction with client
+// - If you meet assumptions, no configuration is necessary

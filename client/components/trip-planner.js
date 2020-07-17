@@ -199,3 +199,8 @@ const planQuery = graphql(gql`
 export default compose(
   stationQuery, planQuery
 )(TripPlanner);
+
+// lesson Recap
+// - User compose() to do multiple queries on a single component
+// - You can control execution with @skip and @include directive
+// - the props option on the query allows you to transform data before it's set
