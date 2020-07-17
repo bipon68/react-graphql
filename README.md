@@ -8,7 +8,7 @@
 - `yarn add react-leaflet leaflet`
 
 # [Code a Front-End App With GraphQL and React](https://code.tutsplus.com/courses/code-a-front-end-app-with-graphql-and-react/lessons/project-overview)
-## Instructor: [Markus Mühlberger][instructor url]
+## Instructor: [Markus Mühlberger](https://github.com/nikgraf)
 
 GraphQL is an emerging technology for creating APIs and sharing data between the server and front-end. It was originally designed by engineers at Facebook, to help manage their increasingly complex API needs. With GraphQL, it isn't necessary for app developers to know about lots of different API endpoints to access different types and combinations of server data—instead, a single query language makes it easy to retrieve whatever data is needed from the server, with a uniform interface for features such as optimistic caching and real-time updates.
 
